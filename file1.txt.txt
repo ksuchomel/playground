@@ -1,5 +1,9 @@
 This is file #1
 
+BRANCH #1
 THis is line 1 for branch1
 
 This is line 2 for branch1
+
+BRANCH #2
+This is line 1 for branch2
